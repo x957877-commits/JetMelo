@@ -1,7 +1,7 @@
 # 肥鱼音乐
 <img src="app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" height="72">
 
-A Material 3 Netease Cloud Music client for Android
+一个基于 Jetmelo 魔改的安卓网易云音乐播放器
 
 [![Latest release](https://img.shields.io/github/v/release/rcmiku/JetMelo?include_prereleases)](https://github.com/rcmiku/JetMelo/releases)
 [![GitHub License](https://img.shields.io/github/license/rcmiku/JetMelo)](https://www.gnu.org/licenses/gpl-3.0)
