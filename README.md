@@ -1,4 +1,4 @@
-# JetMelo
+# 肥鱼音乐
 <img src="app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" height="72">
 
 A Material 3 Netease Cloud Music client for Android
