@@ -1,5 +1,5 @@
 # 肥鱼音乐
-<img src="app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" height="72">
+<img src="app\src\main\res\图标-1024px-圆角.png" height="72">
 
 一个基于 Jetmelo 魔改的安卓网易云音乐播放器
 
@@ -7,14 +7,13 @@
 [![GitHub License](https://img.shields.io/github/license/rcmiku/JetMelo)](https://www.gnu.org/licenses/gpl-3.0)
 [![Downloads](https://img.shields.io/github/downloads/rcmiku/JetMelo/total)](https://github.com/rcmiku/JetMelo/releases)
 
-## Features
+## 特点
 
-- Play songs from Netease Cloud Music
-- Background playback
-- Search songs, albums, and playlists from Cloud Netease Music
-- Login support
-- Synchronized lyrics
-- Personalized quick picks
+- 支持导入洛雪 .js 音源
+- 提供更多播放页
+- 更多的自定义选项
+- 支持扫码登录和手机号登录
+- 歌词相较于原版多了翻译
 
 ## Screenshot
 
@@ -45,7 +44,7 @@
 - [Coil](https://github.com/coil-kt/coil)
 - [Ksp](https://github.com/google/ksp)
 
-## Disclaimer
+## 免责声明
 
 This software is not affiliated with, funded, authorized, or endorsed by NetEase Cloud Music, Hangzhou NetEase Cloud Music Technology Co., or any of its affiliates.
 
